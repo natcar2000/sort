@@ -8,11 +8,11 @@ Projeto em Python que permite ordenar vetores usando um dos métodos elementares
 
 ## Demonstração
 
-Bubble sort: python sort.py -b <vetor>
+Bubble sort: python sort.py -b (vetor)
 
-Selection sort: python sort.py -s <vetor>
+Selection sort: python sort.py -s (vetor)
 
-Insertion sort: python sort.py -i <vetor> 
+Insertion sort: python sort.py -i (vetor) 
 
 
 ## Funcionalidades
