@@ -40,4 +40,4 @@ python sort.py -i 12,4,8
 
 ## Feedback
 
-Se desejar fazer algum feedback construtivo, sugestões de melhoria ou contribuições, por favor entre em contato pelo email natanrod2011@gmail.com
+Se desejar fazer algum feedback construtivo, sugestões de melhoria ou contribuições, por favor entre em contato pelo email natanrod965@gmail.com
